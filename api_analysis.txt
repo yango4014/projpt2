@@ -1,0 +1,2 @@
+Value increases over time at a rate similar to quadratic until it hits around 200,000 then jumps down to 0 and restarts its increase
+Pi stays around the same(at true pi value) for most of the hour but at some point it increases to 4 for a couple minutes before dropping to 3 and progressively going up and down by less and less until it reaches true pi value again
